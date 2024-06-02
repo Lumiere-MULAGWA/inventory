@@ -4,6 +4,8 @@ plugins {
     alias(libs.plugins.ksp.version)
 }
 
+
+
 android {
     namespace = "cd.bmduka.inventory"
     compileSdk = 34
